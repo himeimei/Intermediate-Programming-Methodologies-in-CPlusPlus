@@ -1,0 +1,22 @@
+18 words
+Maximum length: 12
+Highest frequency: 4
+
+  1 accidentally
+  1 and
+  1 be
+  1 bottle
+  3 bottles
+  1 fall
+  4 green
+  3 hanging
+  1 if
+  1 nine
+  3 on
+  1 one
+  1 should
+  2 ten
+  3 the
+  1 there
+  3 wall
+  1 will

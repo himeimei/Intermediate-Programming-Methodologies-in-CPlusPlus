@@ -1,0 +1,17 @@
+13 words
+Maximum length: 7
+Highest frequency: 4
+
+  1 a
+  1 boat
+  1 but
+  1 down
+  1 dream
+  1 gently
+  1 is
+  1 life
+  4 merrily
+  3 row
+  1 stream
+  1 the
+  1 your

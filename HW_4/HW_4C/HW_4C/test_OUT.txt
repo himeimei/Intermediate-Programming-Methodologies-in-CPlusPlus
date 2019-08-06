@@ -1,0 +1,11 @@
+7 words
+Maximum length: 5
+Highest frequency: 7
+
+  1 end
+  5 one
+  2 step
+  2 the
+  7 three
+  7 two
+  7 waltz
